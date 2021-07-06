@@ -127,3 +127,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+### MY EDITS ###
+
+# Documentation used for class that I don't want up on github for employers
+/unused_documentation/
+
+# Database file
+#app/**/*.db
+*.db
+
+# Fit models
+#app/**/*.mdl
+*.mdl
