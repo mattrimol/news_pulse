@@ -134,9 +134,7 @@ dmypy.json
 /unused_documentation/
 
 # Database file
-#app/**/*.db
 *.db
 
 # Fit models
-#app/**/*.mdl
 *.mdl
